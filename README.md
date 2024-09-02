@@ -4,7 +4,7 @@ ForTheRecord was featured in an article by Ars Electronica! Check it out [here](
 
 ## ℹ️ What is it?
 
-ForTheRecord transforms the facade of the Ars Electronica Center in Linz, Austria into a live music visualizer by combining vibrant animations and visual elements that react to music. Viewers of this project can experience the acoustic stimulation of the energetic music while watching the visual animations combine to create an immersive experience. The sides of the facade alternate between short animations of various kinds, while the front of the building displays a fluid that reacts to the song being played. Through this project, visitors to Ars Electronica are offered a completely new way of enjoying music.
+ForTheRecord transforms the facade of the Ars Electronica Center in Linz, Austria into a live music visualizer by combining vibrant animations and visual elements that react to music. Viewers of this project can experience the acoustic stimulation of the energetic music while watching the visual animations combine to create an immersive experience. The sides of the facade alternate between short animations of various kinds, while the front of the building displays a fluid that reacts to the song being played. Through this project, the people of Linz are offered a completely new way of enjoying music.
 
 ## 💻 Technologies
 
