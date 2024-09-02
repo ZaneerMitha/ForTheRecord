@@ -1,6 +1,6 @@
 # 💽 ForTheRecord Overview
 
-ForTheRecord was featured in an article! Check it out [here](https://ars.electronica.art/futurelab/de/projects-northeastern-university-2022/)!
+ForTheRecord was featured in an article by Ars Electronica! Check it out [here](https://ars.electronica.art/futurelab/de/projects-northeastern-university-2022/)!
 
 ## ℹ️ What is it?
 
